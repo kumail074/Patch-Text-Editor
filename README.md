@@ -10,15 +10,18 @@ A simple, Vim-inspired text editor with basic features, built from scratch using
 ## Installation
 To compile and install the text editor, you need a C compiler (like 'gcc') and the 'make' tool.  
 - Clone the repo:
-'''bash
+```bash
 git clone https://github.com/kumail074/Patch-Text-Editor.git
 cd Patch-Text-Editor
+```
 - Compile the project
-'''bash
+```bash
 make
 - Run the editor
-'''bash
+```
+```bash
 ./pat
+```
 
 ## Limitations
 This project is a basic implementation of a Vim-like text editor and does not yet support more advanced features like syntax highlighting, multi-file editing, or plugins. The goal of this project is to provide a minimalist, keyboard-centric text editor with simple functionality, similar to Vim.  
