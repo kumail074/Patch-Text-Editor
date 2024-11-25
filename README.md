@@ -17,8 +17,8 @@ cd Patch-Text-Editor
 - Compile the project
 ```bash
 make
-- Run the editor
 ```
+- Run the editor
 ```bash
 ./pat
 ```
